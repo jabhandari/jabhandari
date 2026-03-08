@@ -1,5 +1,7 @@
 # Hi, I'm Juhi Bhandari 👋
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
 💻 Software Developer
 🎓 Computer Programming Graduate – Seneca Polytechnic
 📍 Toronto, Canada
@@ -34,6 +36,9 @@ React • Node.js • Express • REST APIs
 
 Git • GitHub • MongoDB • Figma • Tableau • Power BI
 
+<p>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,cpp,git,mongodb,figma" />
+</p>
 ---
 
 ## 📌 Featured Projects
@@ -60,15 +65,14 @@ A system for managing appointments and patient records efficiently.
 
 Tech Stack: C / C++
 
----
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jabhandari\&layout=compact)
+## 📫 Reach me at
 
----
+<p>
+<a href="https://www.linkedin.com/in/juhi-bhandari-4baa61261/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
 
-## 📫 Connect With Me
-
-LinkedIn: [(add your LinkedIn link)](https://www.linkedin.com/in/juhi-bhandari-4baa61261/)
-Portfolio: 
+📧 Email: juhibhandari774@gmail.com
 
 ---
