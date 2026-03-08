@@ -1,10 +1,14 @@
-# Hi, I'm Juhi Bhandari 👋
+<p align="center">
+ # Hi, I'm Juhi Bhandari 👋
+<br/>
+<br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-💻 Software Developer
-🎓 Computer Programming Graduate – Seneca Polytechnic
+💻 Software Developer <br/>
+🎓 Computer Programming Graduate – Seneca Polytechnic<br>
 📍 Toronto, Canada
+</p>
 
 ---
 
